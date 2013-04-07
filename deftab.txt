@@ -1,0 +1,5 @@
+ADDNUM &VAL &VAL1
+LDA ?1
+ADD ?2
+STA ?1
+
